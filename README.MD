@@ -1,31 +1,3 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
@@ -33,7 +5,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -60,39 +32,44 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Prompts de roteiro no `chagpt`
+        A) Criação de título e subtítulo:
+            Prompt: Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em Power Plataform e eu gostaria de uma ajuda sua para criar 5 sugestões  de nomes                  criativos para um podcast de Power Plataform.
+            O podcast vai falar sobre dicas e novidades sobre o mundo da Power Plataform e o que está acontecendo no mercado
+            [REGRAS]
+            > O nome deve ser enxuto, um nome e um subtítulo
+            > O nome deve conter alguma palavra forte que remeta a Power Plataform
+            [REGRAS NEGATIVAS]
+            > Não quero que o nome tenha palavras em inglês no título
+            > Não quero que utilize nenhuma das palavras nesta lista: programador
+        B) Criação da capa:
+            Prompt: Faça uma foto de uma pessoa jovem, sorrindo, confiante, olhando para uma olhando para uma caixa de ferramentas. A imagem deve ser ultrarrealista, ultra detalhada e               em formato 1:1.
+        c) Criação do roteiro:
+            Você é um roteirista de podcast e vamos criar o roteiro de um podcast de tecnologia, focado em Power Plataform, cujo nome é: Impulso Criativo, Potencializando o mercado com             automação inteligente, e tem foco em Power Plataform, com o público alvo de iniciantes em Power Plataform.
+            O formato do roteiro deve ser:
+            [INTRODUÇÃO]
+            [CURIOSIDADE 1]
+            [CURIOSIDADE 2]
+            [CURIOSIDADE 3]
+            [FINALIZAÇÃO]
+            [REGRAS]
+            > No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal “ei nerd”, como se fossem escritos pelo Peter Jordan.
+            > No bloco [CURIOSIDADE 1] substitua por uma curiosidade de Power BI.
+            > No bloco [CURIOSIDADE 2] substitua por uma curiosidade de Power Automate.
+            > No bloco [CURIOSIDADE 3] substitua por uma curiosidade de Power Apps.
+            > No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final “Eu sou Luiz Meira e esse foi o CodeCast dessa semana”.
+            > Use termos de fácil explicação.
+            > O podcast vai ser apresentado somente por uma pessoa chamada Luiz Meira.
+            > O podcast deve ser curto.
+            [REGRAS NEGATIVAS]
+            > Não use muitos termos técnicos.
+            > Não ultrapasse 5 minutos de duração.
+
+
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 ---
 
